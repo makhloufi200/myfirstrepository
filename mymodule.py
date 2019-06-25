@@ -1,12 +1,4 @@
-def say_hello():
-    print("hello world")
+def say_hello(name):
+    print("hello "+ name)
 
-say_hello()
-say_hello()
-say_hello()
-def say_hello():
-    print("hello world")
-
-say_hello()
-say_hello()
-say_hello()
+say_hello(smail)
