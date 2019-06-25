@@ -3,4 +3,4 @@ def say_hello(name):
 
 say_hello("smail")
 
-say_hello("world")
+#say_hello("world")
